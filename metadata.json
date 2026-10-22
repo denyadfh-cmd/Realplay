@@ -1,0 +1,6 @@
+{
+  "name": "REALPLAY — Spin. Move. Track.",
+  "description": "Game olahraga dunia nyata berbasis custom spin wheel. Ubah hasil putaran menjadi tantangan fisik nyata, kelola antrean latihan, catat progres, dan raih pencapaian secara offline tanpa akun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
